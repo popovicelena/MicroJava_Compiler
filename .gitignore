@@ -1,0 +1,14 @@
+logs
+.metadata
+.classpath
+.project
+bin
+.settings
+ast
+test
+util
+.DS_Store
+CUP$MJParser$actions.class
+CodeGenerator.class
+MJParser.class
+SemanticAnalyzer.class
